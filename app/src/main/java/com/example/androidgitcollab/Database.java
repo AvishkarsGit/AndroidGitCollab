@@ -2,5 +2,5 @@ package com.example.androidgitcollab;
 
 public class Database {
 
-    private static final  String DATABASE_NAME="";
+    private static final  String DATABASE_NAME="Mydb";
 }
